@@ -20,6 +20,8 @@ Pre-requsite libraies
 train.py file is used to train the dataset
 test.py file is used to test the data in dataset
 
+Json files were created by running the train file
+
 
 If u have any queries contact me through email.
 
